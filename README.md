@@ -1,3 +1,2 @@
 # FSGame
-Repositorio para el proyecto de FS subido a Google Play. Podéis encontrar la
-aplicación buscando 'Flying Scumbag' en la Google Play.
+Flying Scumbag es una aplicación para android de un juego parodia del clásico Flappy Bird, realizado en Unity. El objetivo principal del desarrollo de este juego fue completar un proyecto de principio a fin, desde la implementación en Unity hasta la publicación en la Google Play. Actualmente se encuentra disponible en https://play.google.com/store/apps/details?id=com.GaemDevStudios.FlyingScumbag&gl=ES.
